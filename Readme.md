@@ -11,10 +11,10 @@ This project is developed using the **LAMP Stack** (Linux, Apache, MySQL, PHP) o
 
 Here are some screenshots of the application in action:
 
-![Add New Book](image1.jpeg)
+![Add New Book](/assets/screenshot/image1.jpeg)
 *Figure 1: Add New Book for Admin Portal*
 
-![Advance Search Filter](image2.jpeg)
+![Advance Search Filter](/assets/screenshot/image2.jpeg)
 *Figure 2: Advance Search Filter*
 
 ---
